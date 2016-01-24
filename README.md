@@ -6,4 +6,4 @@ Pratyush Kapur and Bryce Murley
 * Line 3 is awesome.
 * Line 4 is unprecedented.
 * Line 5 did ChunkyString in grade school.  **False.  No human could do 
-that.**
+that.** _False_, Chuck Norris could.
